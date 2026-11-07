@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "default_category": "Unsorted",
+  "categories": [
+    {"name": "Ideas",    "keywords": ["idea", "maybe", "concept", "what if", "could build"]},
+    {"name": "Learning", "keywords": ["learn", "study", "course", "tutorial", "research"]},
+    {"name": "Tasks",    "keywords": ["todo", "to-do", "task", "deadline", "remind", "need to"]},
+    {"name": "Work",     "keywords": ["work", "project", "meeting", "client"]}
+  ],
+  "tags": [
+    {"tag": "cybersecurity", "keywords": ["cyber", "security", "nmap", "linux", "network", "pentest", "vapt", "burp", "owasp", "exploit", "vulnerab", "recon", "ctf"]},
+    {"tag": "python",        "keywords": ["python", "fastapi", "script"]},
+    {"tag": "study",         "keywords": ["learn", "study", "course", "tutorial"]},
+    {"tag": "task",          "keywords": ["todo", "to-do", "task", "deadline", "remind"]},
+    {"tag": "idea",          "keywords": ["idea", "concept", "maybe"]}
+  ]
+}

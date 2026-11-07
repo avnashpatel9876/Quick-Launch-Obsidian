@@ -1,0 +1,90 @@
+{
+ "now": "2026-11-07T10:15:30+05:30",
+ "uniq": "abc123",
+ "cases": [
+  {
+   "title": "",
+   "body": "Idea: ship the widget",
+   "source": "windows",
+   "file_name": "20261107-101530-win-abc123-idea-ship-the-widget.md",
+   "markdown": "---\ncreated: 2026-11-07T10:15:30+05:30\nsource: windows\ncategory: Ideas\ntags: [idea, ideas]\n---\n\n# Idea: ship the widget\n"
+  },
+  {
+   "title": "",
+   "body": "scan the network with nmap",
+   "source": "android-widget",
+   "file_name": "20261107-101530-and-abc123-scan-the-network-with-nmap.md",
+   "markdown": "---\ncreated: 2026-11-07T10:15:30+05:30\nsource: android-widget\ncategory: Unsorted\ntags: [cybersecurity, unsorted]\n---\n\n# scan the network with nmap\n"
+  },
+  {
+   "title": "Study plan",
+   "body": "Learning burp suite and OWASP top 10",
+   "source": "android-share",
+   "file_name": "20261107-101530-and-abc123-study-plan.md",
+   "markdown": "---\ncreated: 2026-11-07T10:15:30+05:30\nsource: android-share\ncategory: Learning\ntags: [cybersecurity, learning, study]\n---\n\n# Study plan\n\nLearning burp suite and OWASP top 10\n"
+  },
+  {
+   "title": "",
+   "body": "- [ ] remind me to renew the domain\nbefore friday",
+   "source": "windows",
+   "file_name": "20261107-101530-win-abc123-remind-me-to-renew-the-domain.md",
+   "markdown": "---\ncreated: 2026-11-07T10:15:30+05:30\nsource: windows\ncategory: Tasks\ntags: [task, tasks]\n---\n\n# remind me to renew the domain\n\nbefore friday\n"
+  },
+  {
+   "title": "Workflow notes",
+   "body": "meeting with client about the project",
+   "source": "android-widget",
+   "file_name": "20261107-101530-and-abc123-workflow-notes.md",
+   "markdown": "---\ncreated: 2026-11-07T10:15:30+05:30\nsource: android-widget\ncategory: Work\ntags: [work]\n---\n\n# Workflow notes\n\nmeeting with client about the project\n"
+  },
+  {
+   "title": "",
+   "body": "![[Quick Capture/Attachments/screen-1.png]]",
+   "source": "windows",
+   "file_name": "20261107-101530-win-abc123-capture.md",
+   "markdown": "---\ncreated: 2026-11-07T10:15:30+05:30\nsource: windows\ncategory: Unsorted\ntags: [unsorted]\n---\n\n# Capture 2026-11-07 10:15\n\n![[Quick Capture/Attachments/screen-1.png]]\n"
+  },
+  {
+   "title": "Héllo wörld / ../x",
+   "body": "python script to parse nmap xml",
+   "source": "android-share",
+   "file_name": "20261107-101530-and-abc123-héllo-wörld-x.md",
+   "markdown": "---\ncreated: 2026-11-07T10:15:30+05:30\nsource: android-share\ncategory: Unsorted\ntags: [cybersecurity, python, unsorted]\n---\n\n# Héllo wörld / ../x\n\npython script to parse nmap xml\n"
+  },
+  {
+   "title": "",
+   "body": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+   "source": "windows",
+   "file_name": "20261107-101530-win-abc123-capture.md",
+   "markdown": "---\ncreated: 2026-11-07T10:15:30+05:30\nsource: windows\ncategory: Unsorted\ntags: [unsorted]\n---\n\n# Capture 2026-11-07 10:15\n\nxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n"
+  },
+  {
+   "title": "",
+   "body": "## Heading line\n\nbody para one\nbody para two",
+   "source": "windows",
+   "file_name": "20261107-101530-win-abc123-heading-line.md",
+   "markdown": "---\ncreated: 2026-11-07T10:15:30+05:30\nsource: windows\ncategory: Unsorted\ntags: [unsorted]\n---\n\n# Heading line\n\nbody para one\nbody para two\n"
+  },
+  {
+   "title": "  ",
+   "body": "   ",
+   "source": "android-widget",
+   "file_name": "20261107-101530-and-abc123-capture.md",
+   "markdown": "---\ncreated: 2026-11-07T10:15:30+05:30\nsource: android-widget\ncategory: Unsorted\ntags: [unsorted]\n---\n\n# Capture 2026-11-07 10:15\n"
+  },
+  {
+   "title": "Cost $5 & 100% done",
+   "body": "maybe a ${template} thing",
+   "source": "android-widget",
+   "file_name": "20261107-101530-and-abc123-cost-5-100-done.md",
+   "markdown": "---\ncreated: 2026-11-07T10:15:30+05:30\nsource: android-widget\ncategory: Ideas\ntags: [idea, ideas]\n---\n\n# Cost $5 & 100% done\n\nmaybe a ${template} thing\n"
+  },
+  {
+   "title": "",
+   "body": "Привет мир: need to learn linux",
+   "source": "windows",
+   "file_name": "20261107-101530-win-abc123-привет-мир-need-to-learn-linux.md",
+   "markdown": "---\ncreated: 2026-11-07T10:15:30+05:30\nsource: windows\ncategory: Learning\ntags: [cybersecurity, learning, study]\n---\n\n# Привет мир: need to learn linux\n"
+  }
+ ]
+}
